@@ -1,0 +1,13 @@
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\bin\Debug\Chequeo_De.exe.config
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\bin\Debug\Chequeo_De.exe
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\bin\Debug\Chequeo_De.pdb
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\bin\Debug\Chequeo_De.xml
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\obj\Debug\Chequeo_De_Vehiculos.vbprojAssemblyReference.cache
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\obj\Debug\Chequeo_De.Usuario.resources
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\obj\Debug\Chequeo_De.Resources.resources
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\obj\Debug\Chequeo_De_Vehiculos.vbproj.GenerateResource.cache
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\obj\Debug\Chequeo_De_Vehiculos.vbproj.CoreCompileInputs.cache
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\obj\Debug\Chequeo_De.exe
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\obj\Debug\Chequeo_De.xml
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\obj\Debug\Chequeo_De.pdb
+C:\Users\Edwin Almanzar\source\repos\Chequeo_De\Chequeo_De\obj\Debug\Chequeo_De.MenuPrincipal.resources
